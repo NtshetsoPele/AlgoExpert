@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="TwoNumberSum.UnitTests/TwoNumberSum.UnitTests.csproj" />
   <Project Path="TwoNumberSum/TwoNumberSum.csproj" />
+  <Project Path="ValidateSubsequence/ValidateSubsequence.csproj" Id="20c8182a-9fe9-4c22-914f-52c61e8f95c6" />
 </Solution>
