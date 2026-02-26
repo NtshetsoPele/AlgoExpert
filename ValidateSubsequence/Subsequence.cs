@@ -9,7 +9,7 @@ public static class Subsequence
         return sequence.All((int nextNum) => NextInRemainingSubarray(nextNum, ref sequenceIndex, array));
     }
 
-    public static bool NextInRemainingSubarray(int nextNum, ref int sequenceIndex, List<int> array)
+    private static bool NextInRemainingSubarray(int nextNum, ref int sequenceIndex, List<int> array)
     {
         for (; sequenceIndex < array.Count;)
         {
