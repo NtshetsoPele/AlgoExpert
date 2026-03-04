@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="SortedSquaredArray.UnitTests/SortedSquaredArray.UnitTests.csproj" Id="10a918fe-e09e-46c5-9992-08714b9a1318" />
+  <Project Path="SortedSquaredArray/SortedSquaredArray.csproj" Id="2a458356-bf5a-4b57-bbab-baea3fbc0018" />
   <Project Path="TwoNumberSum.UnitTests/TwoNumberSum.UnitTests.csproj" />
   <Project Path="TwoNumberSum/TwoNumberSum.csproj" />
   <Project Path="ValidateSubsequence.UnitTests/ValidateSubsequence.UnitTests.csproj" Id="a68bb0ef-246e-47d5-a905-66d3b13d69f1" />
